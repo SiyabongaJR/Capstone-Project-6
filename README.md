@@ -33,3 +33,22 @@ This is my **HyperionDev Software Engineering Bootcamp Level 3 Project** The pro
 
 * Option 9 is to finalize the project, it is called from the  FinalizeProjects class which has methods to finalize the project , by allowing the user to either search for a project from the Existing_Projects table in the PoisedPMS database. It presents the user with  all The company projects, then gives the user search options to select a specific project to update, then it checks if the projec has been paid up or if the project has some monies still due to the company, then if the project has been paid up, it marks the project completion status as Finalized and gets a completion date then makes the changes in the Completed_projects table in the PoisedPMS database. If the selected project still has some monies due, it will generate an invoice for the client that still owes money, which will have the client details and the money still owed to the company.
 
+# Usefulness
+
+The project is useful as it provides A structural engineering company with an easy to use, efficient program to manage all their project details, then adds them to an easy to read database that is easily accessible to the company. 
+
+# How to use it
+
+* you will have to copy all the project file to your local machine
+
+* you will need to have JDK on your machine to run the Java code, it can be easily downloaded using the following instructions: https://www.educba.com/install-jdk/
+
+
+*  You will need to have an IDE for the program, you can choose which you want, Eclipse or InteliJIDEA  for Eclipse go to https://www.eclipse.org/downloads/
+  For InteliJIDEA go to https://www.jetbrains.com/help/idea/installation-guide.html
+  
+ * You will need Mysql to connect to the database https://dev.mysql.com/downloads/installer/
+
+# Contributors and maintanance
+
+I contributed to the project alone and I also manage it on my own
