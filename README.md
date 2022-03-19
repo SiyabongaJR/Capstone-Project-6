@@ -8,4 +8,11 @@ This is my **HyperionDev Software Engineering Bootcamp Level 3 Project** The pro
 
 # Functionality
 
-In the project files in the src (sorce) folder there are 
+When the program is compiled, a menu option will be presented, with 10 menu options:
+
+1. Add new project
+2. Edit Project completion date
+3. Edit total fee paid thus far
+4. Edit contractor
+
+
