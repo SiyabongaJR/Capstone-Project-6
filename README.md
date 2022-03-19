@@ -29,5 +29,7 @@ This is my **HyperionDev Software Engineering Bootcamp Level 3 Project** The pro
 
 
 * Option 5, 6, 7 and 8 all get called from the View projects class, which has methods to show Completed projects, incomplete projects, overdue projects and view all company projects methods, which all read from the Existing_projects table in the PoisedPMS database then present the user with the details in an easy to read manner.
-*  
+
+
+* Option 9 is to finalize the project, it is called from the  FinalizeProjects class which has methods to finalize the project , by allowing the user to either search for a project from the Existing_Projects table in the PoisedPMS database. It presents the user with  all The company projects, then gives the user search options to select a specific project to update, then it checks if the projec has been paid up or if the project has some monies still due to the company, then if the project has been paid up, it marks the project completion status as Finalized and gets a completion date then makes the changes in the Completed_projects table in the PoisedPMS database. If the selected project still has some monies due, it will generate an invoice for the client that still owes money, which will have the client details and the money still owed to the company.
 
