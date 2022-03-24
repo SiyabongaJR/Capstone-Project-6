@@ -3,7 +3,7 @@
 
 # Project Details
 
-This is my **HyperionDev Software Engineering Bootcamp Level 3 Project** The project is for a small structural engineering firm to better manage their engineering projects more efficiently. The program is programmed in Java and uses a database (PoisedPMS) to keep their company projects more organized and secure. The projects adds more features and functonality to Capstone 5 project. Adding JDBC to the program for a more organized and easy way to access their project details and the project members involved in the project, eg Architects, contractors etc.
+This is my **HyperionDev Software Engineering Bootcamp Level 3  Capstone Project 6** The project is for a small structural engineering firm to better manage their engineering projects more efficiently. The program is programmed in Java and uses a database (PoisedPMS) to keep their company projects more organized and secure. The projects adds more features and functonality to Capstone 5 project. Adding JDBC to the program for a more organized and easy way to access their project details and the project members involved in the project, eg Architects, contractors etc.
 
 
 # Functionality
