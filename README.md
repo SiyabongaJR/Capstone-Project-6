@@ -48,6 +48,7 @@ The project is useful as it provides A structural engineering company with an ea
   For InteliJIDEA go to https://www.jetbrains.com/help/idea/installation-guide.html
   
  * You will need Mysql to connect to the database https://dev.mysql.com/downloads/installer/
+ * The database creation files are in the MySql folder
 
 # Contributors and maintanance
 
